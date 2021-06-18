@@ -6,16 +6,16 @@ CREATE TABLE clients(
     );
     
 INSERT INTO `clients`(`c_id`, `c_name`, `c_mail`, `c_balance`) VALUES 
-	(101,'Manasi W.','mmw03@gmail.com',80000),
-    (102,'Mayuri S.','mayus07@gmail.com',75000),
-    (103,'Sakshee P.','saky4520@gmail.com',55000),
-    (104,'Sangita W.','smwader@gmail.com',45000),
-    (105,'Joyel D.','joy_d@gmail.com',85000),
-    (106,'Lavanya M.','lavanya123@gmail.com',60000),
-    (107,'Selena Y.','sam111@gmail.com',42000),
-    (108,'Mahima A.','mahima2000@gmail.com',4510),
-    (109,'Kriti G.','krtis1@gmail.com',3500),
-    (110,'Aliya S.','aliya2002@gmail.com',25000)
+	(101,'Janhvi M.','jm23@gmail.com',80000),
+    (102,'Lokshana C.','lc07@gmail.com',75000),
+    (103,'Purnima A.','pa20@gmail.com',55000),
+    (104,'Rahul S.','rs14r@gmail.com',45000),
+    (105,'Joyel M.','jm05@gmail.com',85000),
+    (106,'Lavanya M.','lm54@gmail.com',60000),
+    (107,'Sahil P.','sp1@gmail.com',42000),
+    (108,'Vaibhav C.','vc57@gmail.com',4510),
+    (109,'Shivam D.','sd56@gmail.com',3500),
+    (110,'Chandni R.','cr13@gmail.com',25000)
     ;
 
 CREATE TABLE transaction (
